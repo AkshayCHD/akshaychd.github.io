@@ -9,8 +9,8 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "AkshayCHD",
   title: "Hi all, I'm Akshay",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  subTitle: emoji("A Calm and Hard-Working Developer(CHD), with a passion for programming in general. I love exploring new tech stacks, and using them to solve real world problems out there"),
+  resumeLink: "https://drive.google.com/file/d/1FyUqP2vIgQHmLKuDyxzsU8aPLgtjgeaI/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -30,9 +30,9 @@ const skillsSection = {
   title: "What i do",
   skills: [
     emoji("⚡ Develop highly scalable backend services using latest javascript frameworks like loopback4 and nestjs"),
-    emoji("⚡ Create and contribute to open source projects that aim at solving real world problems faced by people."),
+    emoji("⚡ Create and contribute to open source projects that aim at solving real world problems.."),
     emoji("⚡ Develop decentralized logic along with frontend applications to interact with it, using libraries like web3js."),
-    emoji("⚡ Solve optimisations and efficiency based problems based on Data structures and Algorithms.")
+    emoji("⚡ Solve optimisations and efficiency based problems on Data structures and Algorithms.")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -132,7 +132,7 @@ const workExperiences = {
       desc: "The internship was a three month remote program that was sponsored by Google. My project was based on KDE's open source project Gcompris, to which I was already contributing for the past 9 months. My work during gsoc can be summarized as. ",
       subPoints: [
         "Worked on KDE’s Project Gcompris to add multiple datasets to activities",
-        "Improved activity code by integrating logic to use multiple datasets instead of a single one.",
+        "Reorganized codebase of activities so as to allow them to use multiple datasets instead of one, without affecting the functioning of other activities related to them.",
         "Improved the reach of an activity my making it usable for students of various age groups",
         "Leveraged knowledge of version control tools like git, phabricator, arcanist and languages like qml, javascript, Qt."
       ]
@@ -145,8 +145,8 @@ const workExperiences = {
       desc: "The internship was a three months part time program at a Chandigarh based company. We worked on a hyperledger fabric based project, that was realted to automating the process of money collection at petrol pumps using blockchain",
       subPoints: [
         "Studied the architecture of hyperledger fabric.",
+        "Developed some test smart contracts and deployed them to local hyperledger fabric environment, and wrote scripts to interact with them.",
         "Worked on making the fabric network more dynamic by using Fabric CA instead of static certificate generators like cryptogen and implementing functionality to add new orgs.",
-        "Improved the reach of an activity my making it usable for students of various age groups",
         "Leveraged knowledge in hyperledger fabric architecture and implementation, node js, GoLang."
       ]
     },
@@ -257,19 +257,24 @@ const achievementSection = {
 
 const blogSection = {
 
-  title: "Blogs",
-  subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  title: "Gists",
+  subtitle: "With Love for Developing cool stuff, I like documenting my learnings along the way.",
 
   blogs: [
     {
       url: "https://gist.github.com/AkshayCHD/54a0d1a0d19b96a538bfe7deb2d81602",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      title: "Solidity Types",
+      description: "A guide to various types defined in solidity language along with Illustratuve examples."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://gist.github.com/AkshayCHD/81abf00c02ec31be2b6d4cde83779a54",
+      title: "Node Js Architecture",
+      description: "Internal architecture details about Node js along with details about ThreadPool."
+    },
+    {
+      url: "https://gist.github.com/AkshayCHD/d1c65cc9d4d364b1c0a7044ea5814f19",
+      title: "Node Js Findings",
+      description: "Some basic findings I had while studying NodeJS."
     }
   ]
 };
@@ -290,7 +295,7 @@ const talkSection = {
         require("./assets/images/kdelogo.png"),
     },
     {
-      title: "Unblocking Blockchain Webminar",
+      title: "Unblocking Block Chain",
       subtitle: "Block8 Blockchain Bootcamp",
       slides_url: "https://docs.google.com/presentation/d/1TadCwf5jZXjlqaHRzPrSBIVoDBRHYV-hue_rrW_IVGo/edit?usp=sharing",
       image:
@@ -313,7 +318,7 @@ const podcastSection = {
   subtitle: "I LOVE TO TALK ABOUT MYSELF AND TECHNOLOGY",
 
   // Please Provide with Your Podcast embeded Link
-  podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
+  podcast: [""]
 };
 
 const contactInfo = {
