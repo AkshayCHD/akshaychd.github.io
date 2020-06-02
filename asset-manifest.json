@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2f6f4ab.chunk.css",
+    "main.js": "/static/js/main.bb292c83.chunk.js",
+    "main.js.map": "/static/js/main.bb292c83.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
+    "static/js/2.80f8f7fb.chunk.js": "/static/js/2.80f8f7fb.chunk.js",
+    "static/js/2.80f8f7fb.chunk.js.map": "/static/js/2.80f8f7fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.73ac74442ebbd74777bf7088d9e4a9ba.js": "/precache-manifest.73ac74442ebbd74777bf7088d9e4a9ba.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a2f6f4ab.chunk.css.map": "/static/css/main.a2f6f4ab.chunk.css.map",
+    "static/js/2.80f8f7fb.chunk.js.LICENSE.txt": "/static/js/2.80f8f7fb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/chaincodeconsultinglogo.png": "/static/media/chaincodeconsultinglogo.af496585.png",
+    "static/media/codecheflogo.jpg": "/static/media/codecheflogo.cafd0bcd.jpg",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/iitroparlogo.png": "/static/media/iitroparlogo.d3542aea.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/pecchandigarhlogo.png": "/static/media/pecchandigarhlogo.f65d1887.png",
+    "static/media/profile.jpg": "/static/media/profile.19721cb2.jpg",
+    "static/media/sensorapilogo.jpg": "/static/media/sensorapilogo.bf314b90.jpg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/swappylogo.jpg": "/static/media/swappylogo.0861cedf.jpg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5fc83a6.js",
+    "static/js/2.80f8f7fb.chunk.js",
+    "static/css/main.a2f6f4ab.chunk.css",
+    "static/js/main.bb292c83.chunk.js"
+  ]
+}
