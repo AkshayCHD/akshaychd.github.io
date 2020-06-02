@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a2f6f4ab.chunk.css",
-    "main.js": "/static/js/main.bb292c83.chunk.js",
-    "main.js.map": "/static/js/main.bb292c83.chunk.js.map",
+    "main.js": "/static/js/main.a7baa01f.chunk.js",
+    "main.js.map": "/static/js/main.a7baa01f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
     "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
-    "static/js/2.80f8f7fb.chunk.js": "/static/js/2.80f8f7fb.chunk.js",
-    "static/js/2.80f8f7fb.chunk.js.map": "/static/js/2.80f8f7fb.chunk.js.map",
+    "static/js/2.c48248de.chunk.js": "/static/js/2.c48248de.chunk.js",
+    "static/js/2.c48248de.chunk.js.map": "/static/js/2.c48248de.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.73ac74442ebbd74777bf7088d9e4a9ba.js": "/precache-manifest.73ac74442ebbd74777bf7088d9e4a9ba.js",
+    "precache-manifest.4807438ab1c44c9595f9e04cf606d8b9.js": "/precache-manifest.4807438ab1c44c9595f9e04cf606d8b9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a2f6f4ab.chunk.css.map": "/static/css/main.a2f6f4ab.chunk.css.map",
-    "static/js/2.80f8f7fb.chunk.js.LICENSE.txt": "/static/js/2.80f8f7fb.chunk.js.LICENSE.txt",
+    "static/js/2.c48248de.chunk.js.LICENSE.txt": "/static/js/2.c48248de.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/chaincodeconsultinglogo.png": "/static/media/chaincodeconsultinglogo.af496585.png",
     "static/media/codecheflogo.jpg": "/static/media/codecheflogo.cafd0bcd.jpg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e5fc83a6.js",
-    "static/js/2.80f8f7fb.chunk.js",
+    "static/js/2.c48248de.chunk.js",
     "static/css/main.a2f6f4ab.chunk.css",
-    "static/js/main.bb292c83.chunk.js"
+    "static/js/main.a7baa01f.chunk.js"
   ]
 }
