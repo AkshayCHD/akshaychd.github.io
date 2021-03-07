@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd5abd930d70b1234f53060286eb80a2",
+    "revision": "3d21d1261f782a4d60b833598335d6ac",
     "url": "/index.html"
   },
   {
-    "revision": "d2e4ed2992b6fa3efac5",
+    "revision": "2d56b763b2c9ffcdcf77",
     "url": "/static/css/main.a2f6f4ab.chunk.css"
   },
   {
-    "revision": "65a624815ae0921663fa",
-    "url": "/static/js/2.80f8f7fb.chunk.js"
+    "revision": "e6b0bd8c672f2057f253",
+    "url": "/static/js/2.3fa2f9f4.chunk.js"
   },
   {
     "revision": "7e0fd0c09333f2e525fa479f52af448a",
-    "url": "/static/js/2.80f8f7fb.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3fa2f9f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2e4ed2992b6fa3efac5",
-    "url": "/static/js/main.fcd5391f.chunk.js"
+    "revision": "2d56b763b2c9ffcdcf77",
+    "url": "/static/js/main.cec99e65.chunk.js"
   },
   {
     "revision": "b4ba650b238755144e2a",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "af4965857c5865249bc03402a321bfc5",
-    "url": "/static/media/chaincodeconsultinglogo.af496585.png"
   },
   {
     "revision": "cafd0bcdaa5d285d74b4c031ecca5141",
